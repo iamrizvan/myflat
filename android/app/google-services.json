@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "151279535842",
+    "firebase_url": "https://myflat-bec09.firebaseio.com",
+    "project_id": "myflat-bec09",
+    "storage_bucket": "myflat-bec09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151279535842:android:2c8d741f06438b085900bb",
+        "android_client_info": {
+          "package_name": "com.myflat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151279535842-vg23nck3jmvetoaogttp21nrdo25p5po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnj-1YQM1bpecEMWl23Yu0E2-07hodx0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151279535842-vg23nck3jmvetoaogttp21nrdo25p5po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
